@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maksud-Ur-Rashid</h1>
-<h3 align="center">Data Analyst | Skilled in Python, SQL, Excel, Power BI & Statistics.</h3>
+<h3 align="center">Data Analyst | Skilled in SQL, Excel, Power BI, Python & Statistics.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=maksud-ur-rashid&label=Profile%20views&color=0e75b6&style=flat" alt="maksud-ur-rashid" /> 
@@ -13,7 +13,7 @@
 <a href="https://wa.me/8801701007259" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/share/1ch7aneesd/?mibextid=wwxifr" target="blank">
+<a href="https://www.facebook.com/maksud.ur.rashid.2024/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
 </a>
 </p>
